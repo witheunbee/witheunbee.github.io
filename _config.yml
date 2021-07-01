@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Eunbee Kim"
-  avatar           : "/assets/images/profile.jpeg"
+  avatar           : ![profile](assets/images/profile.jpeg)
   bio              : "궁금한 것은 못참습니다."
   location         : "Seoul, Korea"
   email            :
